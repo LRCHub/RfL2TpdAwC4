@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Vagi@",
+  "base_artist": "Geloomy",
+  "createdAt": "2025-12-02T09:47:09.509416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Que Tot et Vagi Bé",
+      "artist": "Txarango",
+      "has_synced": true,
+      "path": "select/01_Que_Tot_et_Vagi_Bé_Txarango.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Que Et Vagi Bé",
+      "artist": "Manel Navarro feat. Belén Aguilera",
+      "has_synced": true,
+      "path": "select/02_Que_Et_Vagi_Bé_Manel_Navarro_feat._Belén_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Que Et Vagi Bé",
+      "artist": "Manel Navarro/Belén Aguilera",
+      "has_synced": true,
+      "path": "select/03_Que_Et_Vagi_Bé_Manel_Navarro_Belén_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Que et vagi bé",
+      "artist": "Sopa De Cabra",
+      "has_synced": true,
+      "path": "select/04_Que_et_vagi_bé_Sopa_De_Cabra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zulan Morali Vagi Re",
+      "artist": "Pamela Jain, Jigardan Gadahvi, Abhita Patel & Aditya Gadhavi",
+      "has_synced": false,
+      "path": "select/05_Zulan_Morali_Vagi_Re_Pamela_Jain,_Jigardan_Gadahvi,_Abhita_Patel_&_Aditya_Gadhavi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mathura Ma Vagi Morli",
+      "artist": "Kinjal Dave",
+      "has_synced": false,
+      "path": "select/06_Mathura_Ma_Vagi_Morli_Kinjal_Dave.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zulan Morali Vagi Re",
+      "artist": "Pamela Jain",
+      "has_synced": false,
+      "path": "select/07_Zulan_Morali_Vagi_Re_Pamela_Jain.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zulan Morali Vagi Re",
+      "artist": "Pamela Jain, Jigardan Gadahvi, Abhita Patel, Aditya Gadhvi",
+      "has_synced": false,
+      "path": "select/08_Zulan_Morali_Vagi_Re_Pamela_Jain,_Jigardan_Gadahvi,_Abhita_Patel,_Aditya_Gadhvi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Que et Vagi Bé",
+      "artist": "Sopa de Cabra",
+      "has_synced": true,
+      "path": "select/09_Que_et_Vagi_Bé_Sopa_de_Cabra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vägi ja võim",
+      "artist": "Metsatöll",
+      "has_synced": false,
+      "path": "select/10_Vägi_ja_võim_Metsatöll.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vagi@",
+      "artist": "Geloomy",
+      "has_synced": false,
+      "path": "select/pl_01_Vagi@_Geloomy.txt"
+    }
+  ]
+}
